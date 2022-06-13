@@ -1,0 +1,35 @@
+h1{
+    background-color: pink;
+    text-align: center;
+    font-style:italic;
+    font-family: Helvetica, serif;
+
+}
+
+.blue{
+    background-color: blue;
+    color: lightblue;
+    font-size: 32px;
+}
+
+.blue a{
+    color: lightblue;
+    font-family: Helvetica, serif;
+}
+
+.hotpink{
+    background-color: hotpink;
+}
+
+#recipe-image{
+    width: 400px;
+    height: auto;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.funky{
+    font-family: Courier New, serif;
+}
